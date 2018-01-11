@@ -1,0 +1,1 @@
+# Checks the string for the correctness of parentheses

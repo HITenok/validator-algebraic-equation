@@ -1,0 +1,22 @@
+{
+  "name": "HITenok/validator-algebraic-equation",
+  "description": "Checks the string for the correctness of parentheses",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexey Somov",
+      "email": "hitenok1@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.9"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  }
+}
