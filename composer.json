@@ -1,5 +1,5 @@
 {
-  "name": "HITenok/validator-algebraic-equation",
+  "name": "hitenok/validator-algebraic-equation",
   "description": "Checks the string for the correctness of parentheses",
   "license": "proprietary",
   "authors": [
